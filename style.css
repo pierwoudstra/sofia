@@ -1,0 +1,24 @@
+@font-face {
+    font-family: MonotypeCorsiva;
+    src: url(Monotype-Corsiva-Regular.ttf);
+  }
+
+
+* {
+    background-image: url("background.jpeg");
+    background-size: 50%;
+}
+
+  
+.text {
+    text-align: center  ;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20%;
+}
+
+h1 {
+    font-family: MonotypeCorsiva;
+    color: aliceblue;
+}
